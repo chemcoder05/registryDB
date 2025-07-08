@@ -1,4 +1,4 @@
 # RegistryDB
 
-#### Scripst to create a RegistryDatabase.
+#### Scripts to create a RegistryDatabase.
 
